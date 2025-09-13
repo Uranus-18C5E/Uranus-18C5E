@@ -1,5 +1,4 @@
-<div>Uranus_18C5E. A human who never grow up</div>
-<h4>const int age=11;</h4>
+<h3>A Chinese High school student，under very high pressure</h3>
 <p> </p>
 <h3>Learning C,C++,Java and forced to learn Python</h3>
 <h2>I AM A IDIOT!</h2>
