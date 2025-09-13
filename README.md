@@ -8,3 +8,4 @@
 <p> </p>
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=Uranus-18C5E&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=github"/>
 <img   align="left" src="https://github-widgetbox.vercel.app/api/profile?username=Uranus-18C5E&data=followers,repositories,stars,commits"/>
+<img   align="left" src="https://github-widgetbox.vercel.app/api/skills?languages=javahtml,css,c,cpp,markdown&theme=dark&rank_icon=github"/>
