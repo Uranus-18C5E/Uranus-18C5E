@@ -7,4 +7,4 @@
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=Uranus-18C5E&locale=en&line_height=33&show_icons=true&hide=&theme=dark&language_icon=github"/>
 <p> </p>
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=Uranus-18C5E&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=github"/>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Uranus-18C5E&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+<img   align="left" src="https://github-widgetbox.vercel.app/api/profile?username=Uranus-18C5E&data=followers,repositories,stars,commits"/>
