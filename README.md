@@ -8,3 +8,4 @@ Life not a dream but a horrible nightmare.
 <img   align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=java,html,c,cpp,markdown&theme=dark&rank_icon=github"/>
 <img   align="middle" src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=dark&rank_icon=github"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uranus-18C5E&layout=compact&theme=dark&rank_icon=github)](https://githubfast.com/Uranus-18C5E/github-readme-stats)
