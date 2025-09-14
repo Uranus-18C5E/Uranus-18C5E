@@ -7,3 +7,4 @@ Life not a dream but a horrible nightmare.
 <p> </p>
 <img   align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=java,html,c,cpp,markdown&theme=dark&rank_icon=github"/>
 <img   align="middle" src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=dark&rank_icon=github"/>
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=Uranus-18C5E&locale=en&line_height=33&show_language=true&hide=&theme=dark&language_icon=github"/>
