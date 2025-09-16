@@ -12,4 +12,4 @@ Life not a dream but a horrible nightmare.
 
 I'm about the same age as Windows 7 lol;born in 2009 but only 10 years old(Ten years old is merely a psychological age...)
 
-<img    align="middle" src="https://github.com/Uranus-18C5E/Uranus-18C5E/blob/main/Uranus%2B%2528Copy%2529.gif"/>
+<img src="https://github.com/Uranus-18C5E/Uranus-18C5E/blob/main/Uranus%2B%2528Copy%2529.gif"/>
