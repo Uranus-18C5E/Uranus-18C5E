@@ -11,3 +11,5 @@ Life not a dream but a horrible nightmare.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uranus-18C5E&layout=compact&theme=dark&rank_icon=github)](https://githubfast.com/Uranus-18C5E/github-readme-stats)
 
 I'm about the same age as Windows 7 lol;born in 2009 but only 10 years old(Ten years old is merely a psychological age...)
+
+<img    align="middle" src="https://github.com/Uranus-18C5E/Uranus-18C5E/blob/main/Uranus%2B%2528Copy%2529.gif"/>
