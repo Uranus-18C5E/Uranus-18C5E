@@ -9,3 +9,5 @@ Life not a dream but a horrible nightmare.
 <img   align="middle" src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=dark&rank_icon=github"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uranus-18C5E&layout=compact&theme=dark&rank_icon=github)](https://githubfast.com/Uranus-18C5E/github-readme-stats)
+
+I'm about the same age as Windows 7 lol;born in 2009 but only 10 years old(Ten years old is merely a psychological age...)
