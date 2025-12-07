@@ -1,4 +1,4 @@
-<h3>A Chinese High school student，under very high pressure</h3>
+<h3>A high school student，under very high pressure</h3>
 <h6>But I hope I'm only 10 years old</h6>
 <h3>Unlike most people, I am not a student participating in competitions</h3>
 <h3>Learning C,C++,Java and forced to learn Python</h3>
